@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ved Prakash</h1>
+<h1 align="center">Hi 👋, I'm Ved Prakash<br> <h>(A Passionate Data Scientist) </h1>
+	
 
 [![Github](https://img.shields.io/github/followers/ved3prakas?label=Follow&style=social)](https://github.com/ved3prakas)
 [![Linkedin](https://img.shields.io/badge/-Ved%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vedprakash2316/)](https://www.linkedin.com/in/vedprakash2316/)
