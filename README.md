@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ved Prakash<br> <h>(A Passionate Data Scientist) </h1>
+<h1 align="center">Hi 👋, I'm Ved Prakash<br> <h2> (A Passionate Data Scientist ) </h1>
 	
 
 [![Github](https://img.shields.io/github/followers/ved3prakas?label=Follow&style=social)](https://github.com/ved3prakas)
