@@ -29,30 +29,29 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/Heroku/Heroku-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/Pivotal/Pivotal-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/Amazon Web Services/Amazon Web Services-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/Google Cloud/Google Cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/Microsoft Azure/Microsoft Azure-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/NumPy/NumPy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/HTML5/HTML5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/JSON/JSON-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/MongoDB/MongoDB-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/NVIDIA/NVIDIA-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/phpMyAdmin/phpMyAdmin-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/phpmyadmin/phpmyadmin-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/plot_ly/plot_ly-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pivotalio/pivotalio-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/qtio/qtio-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nvidia/nvidia-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/json/json-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kaggle/kaggle-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_awslambda/amazon_awslambda-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-icon.svg"></code>
 
 
+### fact about Data Science 
 
-
-
-⚡ Fun fact: There is no full automated data science. You need to get your hands dirty . Whatever we are doing today is a Augmented Artificial Intelligence not a fully Automated Artificial Intelligence
+⚡ fact : There is no full automated data science. You need to get your hands dirty . Whatever we are doing today is a Augmented Artificial Intelligence not a fully Automated Artificial Intelligence
 
 
 ### Interesting stats
