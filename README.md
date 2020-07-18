@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/github/followers/ved3prakas?label=Follow&style=social)](https://github.com/ved3prakas)
 [![Linkedin](https://img.shields.io/badge/-Ved%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vedprakash2316/)](https://www.linkedin.com/in/vedprakash2316/)
-[![Mail](https://img.shields.io/badge/-Mail %20 Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:vedprakash2316@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:vedprakash2316@gmail.com)
 
 
 
