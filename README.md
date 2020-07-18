@@ -1,16 +1,3 @@
-### Hi there 👋
-
-
-**ved3prakas/ved3prakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on DeepFake 
-- 🌱 I’m currently Exploring Advanced Deep Learning & NLP 
-- 👯 I’m looking to collaborate on project oriented learning
-- 💬 Ask me about How to get Started with Data Science
-- 📫 How to reach me: vedprakash2316@gmail.com
-- ⚡ Fun fact: There is no full automated data science. You need to get your hands dirty . Whatever we are doing today is a Augmented Artificial Intelligence not a fully Automated Artificial Intelligence
 
 # Ved Prakash 
 
@@ -42,9 +29,32 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/Heroku/Heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/Pivotal/Pivotal-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/Amazon Web Services/Amazon Web Services-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/Google Cloud/Google Cloud-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/Microsoft Azure/Microsoft Azure-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/NumPy/NumPy-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/HTML5/HTML5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/JSON/JSON-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/MongoDB/MongoDB-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/NVIDIA/NVIDIA-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/phpMyAdmin/phpMyAdmin-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/OpenCV/OpenCV-ar21.svg"></code>
+
+
+
+
+
+⚡ Fun fact: There is no full automated data science. You need to get your hands dirty . Whatever we are doing today is a Augmented Artificial Intelligence not a fully Automated Artificial Intelligence
 
 
 ### Interesting stats
 
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=ved3prakash&show_icons=true)
+![Ved stats](https://github-readme-stats.vercel.app/api?username=Ved&show_icons=true)
