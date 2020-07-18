@@ -1,5 +1,5 @@
 
-# Ved Prakash 
+<h1 align="center">Hi 👋, I'm Ved Prakash</h1>
 
 [![Github](https://img.shields.io/github/followers/ved3prakas?label=Follow&style=social)](https://github.com/ved3prakas)
 [![Linkedin](https://img.shields.io/badge/-Ved%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vedprakash2316/)](https://www.linkedin.com/in/vedprakash2316/)
@@ -13,6 +13,11 @@ Ved Prakash is the one who love to play with numbers being always #Mathematics a
 I've always been passionate about Math ,Computer Science and especially about Mathematical Modeling and how it can be applied in real life problems. I find, that data science and advanced data analysis especially in the IT/Healthcare applications are the areas, where my passions can be best fulfilled.
 
 I'm open-source development enthusiast.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ved3prakas" alt="blurred-machine" /> </p>
+
+
+<img align="top" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
 
 
 ## Stack I work with
@@ -56,3 +61,29 @@ I'm open-source development enthusiast.
 ### Interesting stats
 
 ![Ved stats](https://github-readme-stats.vercel.app/api?username=Ved&show_icons=true)
+
+>
+
+
+<p align="center">
+You have finally discovered my Github profile, so let's get connected! 
+  
+<br>
+<br>
+<a href="https://www.linkedin.com/in/vedprakash2316/">	
+  <img align="center" alt="Ved Prakash | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
+</a>	
+<a href="https://medium.com/@vedprakash2316">	
+  <img align="center" alt="Ved Prakash | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
+</a>	
+<a href="https://www.kaggle.com/ved3prakas">	
+  <img align="center" alt="Ved Prakash | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
+</a>	
+	
+<a href="https://www.instagram.com/datasciencejack">	
+  <img align="center" alt="Ved Prakash | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
+</a>
+<br>
+<br>
+!! Happy Coding !!
+</p>  
