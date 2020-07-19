@@ -13,7 +13,6 @@ Ved Prakash is the one who love to play with numbers being always #Mathematics a
 
 I've always been passionate about Math ,Computer Science and especially about Mathematical Modeling and how it can be applied in real life problems. I find, that data science and advanced data analysis especially in the IT/Healthcare applications are the areas, where my passions can be best fulfilled.
 
-I'm open-source development enthusiast.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ved3prakas" alt="blurred-machine" /> </p>
 
