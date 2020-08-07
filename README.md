@@ -52,7 +52,7 @@ I've always been passionate about Math ,Computer Science and especially about Ma
 
 ### Interesting stats
 
-![Ved Prakash stats ](https://github-readme-stats.vercel.app/api?username=Ved3prakas&show_icons=true)
+![Ved stats ](https://github-readme-stats.vercel.app/api?username=Ved3prakas&show_icons=true)
 
 
 
