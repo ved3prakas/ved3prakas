@@ -9,9 +9,11 @@
 
 
 ## About me 
-Ved Prakash is the one who love to play with numbers being always #Mathematics as favourite subject , that's the reason he is passionate about Data Science & want to solve real world complex ML problem.
+Ved Prakash is the one who love to play with numbers being **Mathematics** as favourite subject , that's the reason he is passionate about Data Science & want to solve real world complex ML problem.
 
 I've always been passionate about Math ,Computer Science and especially about Mathematical Modeling and how it can be applied in real life problems. I find, that data science and advanced data analysis especially in the IT/Healthcare applications are the areas, where my passions can be best fulfilled.
+
+- 📌 Scroll down to see my **Pinned Repositories**.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ved3prakas" alt="blurred-machine" /> </p>
@@ -58,7 +60,7 @@ I've always been passionate about Math ,Computer Science and especially about Ma
 
 
 <p align="center">
-You have finally discovered my Github profile, so let's get connected! 
+You have finally discovered my Github Profile,let's get connected! 
   
 <br>
 <br>
